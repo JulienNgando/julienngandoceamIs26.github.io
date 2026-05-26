@@ -1,16 +1,16 @@
 ---
 layout: home
 title: Home
-display_name: Clyde Tandjong                  # <- shown as the big display name on the hero
+display_name: Julien Ngando                 # <- shown as the big display name on the hero
 description: My CEAMLS SAIRI Summer Research Site
 
 motto: "Curious about how research can shape better tools for everyday life."
 
 quick_facts:
-  - "🎓 Junior, Computer Science"
-  - "🔬 Interested in Quantum Physics"
+  - "🎓 Junior, Physics Major, Computer Science Minor"
+  - "🔬 Interested in Quantum Mechanics"
   - "📍 Based in Baltimore, MD"
-  - "🚀 I like pineapples"
+  - "🚀 I love academia!"
 
 linkedin: https://www.linkedin.com/in/example
 image: /assets/images/profile.svg
@@ -18,9 +18,9 @@ image: /assets/images/profile.svg
 # A "Currently" block — three short status lines for the home page.
 currently:
   - label: Reading
-    text: "The Design of Everyday Things — Don Norman"
+    text: "Shafer-Landau and Moral Realism — Christian Miller"
   - label: Building
-    text: "A small Raspberry Pi sensor logging dashboard"
+    text: "AI bot to measure air pollution on the ground level"
   - label: Wondering
-    text: "How accessibility research can shape consumer hardware"
+    text: "Is morality objective or subjective?"
 ---
