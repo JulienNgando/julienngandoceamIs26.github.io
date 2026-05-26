@@ -12,7 +12,7 @@ quick_facts:
   - "📍 Based in Baltimore, MD"
   - "🚀 I love academia!"
 
-linkedin: https://www.linkedin.com/in/example
+linkedin: https://www.linkedin.com/in/julien-ngando-a3078332a/
 image: /assets/images/profile.svg
 
 # A "Currently" block — three short status lines for the home page.
