@@ -13,7 +13,7 @@ quick_facts:
   - "🚀 I love academia!"
 
 linkedin: https://www.linkedin.com/in/julien-ngando-a3078332a/
-image: /assets/images/profile.svg
+image: assets/images/IMG_1741.HEIC
 
 # A "Currently" block — three short status lines for the home page.
 currently:
