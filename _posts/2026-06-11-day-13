@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Day 13 — Implemeting ML Models"
+date: 2026-06-11
+permalink: /day13.html
+tags: ["research", "design", "dev"]
+what_i_learned: >
+Today, I took a big step into machine learning by learning about and building three types of regression models: linear, ridge, and lasso. I started with standard linear regression, which is a way to predict a number by drawing a straight line through data points. It is a great foundational tool, but it can sometimes struggle if the data is too complex or noisy.
+To fix those struggles, I implemented ridge and lasso regression. These are smarter versions of the basic model that use special penalties to keep the predictions from overreacting to minor details in the data. Ridge regression helps by keeping all the pieces of data balanced, while lasso regression actually weeds out the less important information completely. Putting these three models into action gave me a great hands-on understanding of how to make more accurate predictions.
+blockers: >
+  Today the biggest blocker was getting to undertsand the code. I sat there a long time just reading through the logic which put me a little behind.
+reflection: >
+Today was fun, I can confidently call myself a data analyst now.
+---
