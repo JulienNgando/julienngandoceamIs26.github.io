@@ -4,30 +4,28 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Clyde Tandjong
-  role: Junior, Computer Science
+  name: Julien Ngando
+  role: Junior, Physics
   image: /assets/images/profile.svg
   linkedin: https://www.linkedin.com/in/example
   bio: |
-    Hi! I'm Clyde, a Computer Science student in the CEAMLS SAIRI Summer Research program.
+    Hi! I'm Julien, a Physics student in the CEAMLS SAIRI Summer Research program.
 
-    My research interests sit at the intersection of human-computer interaction and applied
-    machine learning. I'm especially curious about how everyday tools can be made more
-    accessible and adaptive through smart software.
+    My research interests combines Machine Learning with enviromental science. I predict the pollution of tommorow so that the future generation will have better health outcomes.
 
-    Outside of class, you'll find me biking trails, learning languages, or working on small
-    side projects with friends.
+    Outside of class, you'll find me running, reading manga or comics, or working on small
+    side projects to improve progamming skills.
 
   hobbies:
-    - icon: 🎨
-      title: Digital Art
-      description: I make small illustrations and pixel art in my spare time.
-    - icon: 🚲
-      title: Biking
-      description: Weekend trail rides are how I reset.
-    - icon: 📚
-      title: Reading
-      description: Sci-fi novels and design essays — both equally inspiring.
+    - icon: 
+      title: Boxing
+      Description: I love the sport of boxing, particpating and watching
+    - icon: 
+      title: Physics
+      description: I love to see the "why" behind the processes of the world.
+    - icon: 
+      title: Readinb
+      description: Comics and anime have my whole heart!
 
   gallery:
     - image: /assets/images/gallery-1.svg
