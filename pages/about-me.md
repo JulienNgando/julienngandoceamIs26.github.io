@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Julien Ngando
   role: Junior, Physics
-  image: /assets/images/profile.svg
+  image: /assets/images/IMG_7855.jpg
   linkedin: https://www.linkedin.com/in/example
   bio: |
     Hi! I'm Julien, a Physics student in the CEAMLS SAIRI Summer Research program.
