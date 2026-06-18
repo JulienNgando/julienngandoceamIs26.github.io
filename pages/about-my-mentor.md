@@ -6,7 +6,7 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Rokeya Siddiqua
   title: PhD Candidate, Computer Science
-  image: /assets/images/graduate-student-mentor.svg
+  image: /assets/images/IMG_Rokeya_Siddiqua.jpg
   website: https://scholar.google.com/citations?user=FeLknx4AAAAJ&hl=en
   bio: |
     Rokeya Siddiqua is a computer science PhD student at Morgan State University. She studies in the Advanced and Equitable Computing program. She also works as a graduate research assistant under Dr. Xiaowen Li. In this role, she helps with the NASA DEAP project. Her work uses satellite data to study air pollution around Baltimore. Before this, she earned her bachelor's degree in computer science and engineering. This degree from North South University focused on artificial intelligence. She has also worked as a machine learning engineer and a lab instructor. Her current research interests include machine learning and natural language processing. Finally, she likes applying these technologies to healthcare, education, and climate science.
