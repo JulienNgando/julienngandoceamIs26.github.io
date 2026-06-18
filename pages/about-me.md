@@ -32,6 +32,6 @@ about:
       caption: A great talk with one of my friends.
     - image: /assets/images/IMG_3075.PNG
       caption: AI painting of me and my friend.
-    - image: /assets/images/IMG_1432.HEIC
+    - image: /assets/images/IMG_1432.jpg
       caption: Hiking with friends.
 ---
