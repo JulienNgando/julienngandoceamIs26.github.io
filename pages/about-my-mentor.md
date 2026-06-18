@@ -14,7 +14,7 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Xiaowen Li
   title: Director of the Climate Science Division, Climate Science
-  image: /assets/images/faculty-mentor.svg
+  image: /assets/images/Dr. Li.jpg
   website: https://www.researchgate.net/scientific-contributions/Xiaowen-Li-79246054
   bio: |
     Dr. Xiaowen Li is the Director of the Climate Science Division at Morgan State University. She first studied Atmospheric Sciences at Peking University, where she earned her bachelor’s degree. Later, she went to the University of Chicago and graduated with a PhD in Geophysical Sciences. After her studies, she worked as a postdoc at the NASA Goddard Space Flight Center. Over time, she became a Senior Research Scientist working with Morgan State University. She officially joined the school's Climate Science Division in the fall of 2022. Dr. Li studies satellite meteorology, rain physics, and how clouds and aerosols interact. She also focuses her research on regional weather modeling and climate sciences. Her latest work involves using machine learning for weather data and satellite information.
