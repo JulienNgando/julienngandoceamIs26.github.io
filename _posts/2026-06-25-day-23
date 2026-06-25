@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Day 23 — Precision!"
+date: 2026-06-23
+permalink: /day24.html
+tags: ["research", "design", "dev"]
+what_i_learned: |
+  Today was focused on final execution and technical precision. I finalized my data visualizations and polished the presentation slides for Monday, ensuring the narrative flows logically. Alongside formatting, I tightened my understanding of Root Mean Square Error (RMSE) to ensure I can confidently discuss model performance metrics and variance during the Q&A. 
+
+  A significant portion of the day was spent diving deep into the mechanics of the Deep Blue (DB) and Dark Target (DT) aerosol retrieval algorithms. I mapped out exactly why one outperforms the other depending on surface reflectance. While the Dark Target algorithm excels over dark, vegetated surfaces by isolating aerosol scattering, it fails over bright, arid landscapes where the surface reflectance drowns out the atmospheric signal. In contrast, the Deep Blue algorithm leverages blue-wavelength channels—where bright surfaces absorb more light and appear darker—making it superior for retrieving Aerosol Optical Depth (AOD) over deserts and urban environments.
+blockers: |
+  Nailing down specific technical terms the day before presentations.
+reflection: |
+  With the presentation just around the corner, the shift from active coding to communication is always a test of clarity. It is one thing to understand your data pipeline, but it's another to articulate the precise physics behind why certain algorithms work where they do. Taking the time to ground myself in the fundamentals of RMSE and satellite retrieval nuances gives me the confidence I need to present a rigorous, airtight project.
+---
