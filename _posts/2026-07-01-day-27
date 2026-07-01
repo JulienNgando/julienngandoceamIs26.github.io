@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Day 27 — Back to work!"
+date: 2026-07-01
+permalink: /day27.html
+tags: ["research", "design", "dev"]
+what_i_learned: |
+  Today I dove deep into the fundamental architecture of Neural Networks, exploring how data propagates through a multi-layered system. Information begins at the Input Layer, where raw features—such as flattened pixels or environmental parameters—are introduced into the model. From there, the data flows through one or more Hidden Layers. Within these layers, every artificial neuron is assigned a specific weight and bias. The weights determine the relative strength or importance of a given input signal, while the bias serves as an offset shift to ensure the activation function triggers effectively. Together, these tunable mathematical variables allow the network to map highly intricate, non-linear relationships before passing the final computations to the Output Layer, which yields the model's ultimate prediction or classification.
+  
+  The real magic of deep learning, however, lies in how these networks actually optimize their internal parameters through training. After a forward pass is complete, the network evaluates its performance against a ground-truth target using a loss function. It then initiates the backpropagation (back prodding) phase. During backpropagation, the model calculates the gradient of the loss function with respect to each individual weight and bias by utilizing the calculus chain rule. These gradients essentially dictate how much a specific parameter contributed to the total error. An optimization algorithm, such as Gradient Descent, then travels backward through the layers, systematically adjusting the weights and biases to minimize future mistakes, transforming a random collection of nodes into a highly predictive scientific tool.
+blockers: |
+  Encountered a roadblock regarding memory constraints when trying to scale the network to handle dense, high-dimensional datasets. Local system memory limits are bottlenecks when loading the complete matrix simultaneously, meaning I will need to refactor the data pipeline to feed the network using mini-batches or optimize the data loader to prevent out-of-memory errors.
+reflection: |
+  It is incredibly rewarding to see the mathematical concepts behind neural layers translate directly into computational code. Moving from standard statistical approaches to deep learning structures opens up massive possibilities for modeling complex, non-linear physical systems. Overcoming the hardware limitations today forced me to think more critically about training efficiency rather than just model depth, which is a crucial engineering mindset for scalable research.
+---
